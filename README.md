@@ -20,6 +20,10 @@
     <img alt="node-js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br><br>
 
+<p align="center">
+<img src="images/cientista-da-computação.gif" width="310" height="310"/>
+</p>
+
 <picture style="text-align: center;" align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
